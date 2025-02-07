@@ -16,7 +16,7 @@ Bias in machine learning can lead to unfair decision-making, especially in high-
 
 ## **🛠 Technologies Used**  
 - **Python** (Pandas, NumPy, Scikit-learn)  
-- **Machine Learning Models** (SVM, Random Forest, Logistic Regression, MLP)  
+- **Machine Learning Models** (SVM, Random Forest, Logistic Regression, Multi-Layer Perceptron(MLP))  
 - **Bias Detection & Fairness Metrics**  
 
 ---
